@@ -91,11 +91,6 @@ function Create-AD-Account{
     }
 }
 
-
-function End-Summary{
-
-}
-
     #-- MAIN --
 
 $firstname, $lastname, $job_title = Take-User-Input
